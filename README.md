@@ -1,7 +1,7 @@
 # AutoStar II Remote
 
 This is a fork of original repository:
-https://github.com/scriptorron/AutoSTAR_remote/blob/main/src/AutoSTAR_remote.py
+https://github.com/scriptorron/AutoSTAR_remote
 
 This is a GUI to remote control (using ASCOM or serial interface) the Meade AutoStar II handheld.
 
